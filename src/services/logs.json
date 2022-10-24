@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "date" : "2022-10-24",
+        "logType" : "warning",
+        "appName" : "dashboard",
+        "log" : "Failed to return connection in Pipeline"
+    },
+    {
+        "id" : 2,
+        "date" : "2022-10-24",
+        "logType" : "error",
+        "appName" : "dashboard",
+        "log" : "Import of file dashboard failed for action"
+    },
+    {
+        "id" : 3,
+        "date" : "2022-10-24",
+        "logType" : "warning",
+        "appName" : "reporting",
+        "log" : "Could not load icon excell.ico"
+    }
+]
